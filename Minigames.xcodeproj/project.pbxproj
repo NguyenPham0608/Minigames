@@ -366,10 +366,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = F93D9XYLSY;
-				INFOPLIST_KEY_CFBundleDisplayName = Minigames;
+				INFOPLIST_KEY_CFBundleDisplayName = PocketPlay;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.6;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.nguyen.Minigames;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nguyen.pocketplay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -384,10 +384,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = F93D9XYLSY;
-				INFOPLIST_KEY_CFBundleDisplayName = Minigames;
+				INFOPLIST_KEY_CFBundleDisplayName = PocketPlay;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.6;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.nguyen.Minigames;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nguyen.pocketplay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
